@@ -36,6 +36,8 @@
 - [Project 1](https://github.com/YourGitHubUsername/RepoName1) - description
 - [Project 2](https://github.com/YourGitHubUsername/RepoName2) - description
 - [Project 3](https://github.com/YourGitHubUsername/RepoName3) - description
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhii-Smoliak&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhii-Smoliak&layout=compact&langs_count=10&theme=radical)
