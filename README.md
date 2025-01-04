@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Serhii Smoliak👋</h1>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social"></a>
+  <a href="https://github.com/Serhii-Smoliak"><img src="https://img.shields.io/github/followers/Serhii-Smoliak?label=Follow&style=social"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
 </p>
 
