@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Serhii Smoliak👋</h1>
 
-<!--
-**Serhii-Smoliak/Serhii-Smoliak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c8e9b54-340e-4dfd-b824-e80662bc2e54" style="width:25%; height:auto;">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Working on: **Software Engineer**
+- 🌱 Learning: **React, Python**
+- 💬 Ask me about: **Node.js**
+- 📫 How to reach me: **Telegram: @Serhii_Smoliak**
+- ⚡ Fun fact: **3D printing**
+
+---
+
+### 🛠️ My Tech Stack
+- **Languages**: JavaScript, PHP, Python, C#
+- **Frameworks**: React, Django, Express.js, Nest.js
+- **Tools**: Git, Docker, VS Code
+
+---
+
+<!-- 
+### 🌟 Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 📂 My Portfolio
+- [Project 1](https://github.com/YourGitHubUsername/RepoName1) - description
+- [Project 2](https://github.com/YourGitHubUsername/RepoName2) - description
+- [Project 3](https://github.com/YourGitHubUsername/RepoName3) - description
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serhii-Smoliak&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
