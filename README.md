@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Serhii Smoliak👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c8e9b54-340e-4dfd-b824-e80662bc2e54" style="width:25%; height:auto;">
-</p>
-
-
-<p align="center">
   <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
 </p>
