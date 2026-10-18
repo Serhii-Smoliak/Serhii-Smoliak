@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 Working on: **Software Engineer**
-- 🌱 Learning: **React, Python**
+- 🌱 Learning: **Agentic Engineering Workflows**
 - 💬 Ask me about: **Node.js**
 - 📫 How to reach me: **Telegram: @Serhii_Smoliak**
 - ⚡ Fun fact: **3D printing**
